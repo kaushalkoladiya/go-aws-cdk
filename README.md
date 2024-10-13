@@ -10,3 +10,6 @@ The `cdk.json` file tells the CDK toolkit how to execute your app.
  * `cdk diff`        compare deployed stack with current state
  * `cdk synth`       emits the synthesized CloudFormation template
  * `go test`         run unit tests
+
+# Go AWS cdk
+Go Application using AWS Lambda, API Gateway, and DynamoDB. All things deployed using AWS CDK. 
