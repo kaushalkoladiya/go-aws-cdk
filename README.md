@@ -1,13 +1,13 @@
 # Go AWS cdk
 Go Application using AWS Lambda, API Gateway, and DynamoDB. All things deployed using AWS CDK. 
 
-# Welcome to CDK Go project!
+## Welcome to CDK Go project!
 
 This is a blank project for CDK development with Go.
 
 The `cdk.json` file tells the CDK toolkit how to execute your app.
 
-## Useful commands
+### Useful commands
 
  * `cdk deploy`      deploy this stack to your default AWS account/region
  * `cdk diff`        compare deployed stack with current state
