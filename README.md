@@ -1,4 +1,7 @@
-# Welcome to your CDK Go project!
+# Go AWS cdk
+Go Application using AWS Lambda, API Gateway, and DynamoDB. All things deployed using AWS CDK. 
+
+# Welcome to CDK Go project!
 
 This is a blank project for CDK development with Go.
 
@@ -11,5 +14,3 @@ The `cdk.json` file tells the CDK toolkit how to execute your app.
  * `cdk synth`       emits the synthesized CloudFormation template
  * `go test`         run unit tests
 
-# Go AWS cdk
-Go Application using AWS Lambda, API Gateway, and DynamoDB. All things deployed using AWS CDK. 
