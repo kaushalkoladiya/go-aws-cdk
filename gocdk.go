@@ -66,6 +66,9 @@ func NewGocdkStack(scope constructs.Construct, id string, props *GocdkStackProps
 	loginResource := api.Root().AddResource(jsii.String("login"), nil)
 	loginResource.AddMethod(jsii.String("POST"), integration, nil)
 
+	protectedResource := api.Root().AddResource(jsii.String("protected"), nil)
+	protectedResource.AddMethod(jsii.String("POST"), integration, nil)
+
 	return stack
 }
 
